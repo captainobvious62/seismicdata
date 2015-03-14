@@ -1,0 +1,1 @@
+This project is intended as a [[python](python.md)]-based tool for seismic data analysis. The tool must support our custom-made seismic and seismology data acquisition device [[Sedis-VI]]. The purpose of the tool is to enable the automatic control for data consistency and to enable seamless data conversion to established seismic data formats.
